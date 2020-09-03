@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15eefba3-fbf8-47fb-9f18-5d96ab9c65b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gxveTu6asIvZXQNjwsFFIgd4xQ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.IframeTest.iframeTest4">
+    <configuration name="IframeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.IframeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IframeTest.iframeTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.IframeTest" />
+      <option name="METHOD_NAME" value="iframeTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IframeTest.iframeTest4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.IframeTest" />
+      <option name="METHOD_NAME" value="iframeTest4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSAlertTest.jsConfirmTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.JSAlertTest" />
+      <option name="METHOD_NAME" value="jsConfirmTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSAlertTest.jspromptTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.JSAlertTest" />
+      <option name="METHOD_NAME" value="jspromptTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.IframeTest.iframeTest4" />
+        <item itemvalue="TestNG.IframeTest.iframeTest2" />
+        <item itemvalue="TestNG.IframeTest" />
+        <item itemvalue="TestNG.JSAlertTest.jspromptTest" />
+        <item itemvalue="TestNG.JSAlertTest.jsConfirmTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15eefba3-fbf8-47fb-9f18-5d96ab9c65b7" name="Default Changelist" comment="" />
+      <created>1599069152600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599069152600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599076118195">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="247" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599076118195" />
+    <state width="973" height="255" key="GridCell.Tab.0.bottom" timestamp="1599163758077">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599158082109" />
+    <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758077" />
+    <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664789" />
+    <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295230" />
+    <state width="973" height="255" key="GridCell.Tab.0.center" timestamp="1599163758076">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599158082108" />
+    <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758076" />
+    <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664788" />
+    <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295229" />
+    <state width="973" height="255" key="GridCell.Tab.0.left" timestamp="1599163758076">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599158082108" />
+    <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758076" />
+    <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664787" />
+    <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295228" />
+    <state width="973" height="255" key="GridCell.Tab.0.right" timestamp="1599163758077">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599158082109" />
+    <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758077" />
+    <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664788" />
+    <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295230" />
+  </component>
+</project>
