@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15eefba3-fbf8-47fb-9f18-5d96ab9c65b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/ActionClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/deneme121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/Ornek_AmazonKayitSayfasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/techproed/tests/JSAlertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techproed/tests/JSAlertTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="TestNG.ActionClassTest">
+  <component name="RunManager" selected="TestNG.Ornek_AmazonKayitSayfasi.test02">
     <configuration name="ActionClassTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProje" />
       <extension name="coverage">
@@ -61,7 +58,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IframeTest.iframeTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Ornek_AmazonKayitSayfasi.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProje" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +67,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.techproed.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.IframeTest" />
-      <option name="METHOD_NAME" value="iframeTest2" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.Ornek_AmazonKayitSayfasi" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -79,7 +76,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IframeTest.iframeTest4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Ornek_AmazonKayitSayfasi.test02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProje" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +85,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.techproed.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.IframeTest" />
-      <option name="METHOD_NAME" value="iframeTest4" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.Ornek_AmazonKayitSayfasi" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Ornek_AmazonKayitSayfasi.test02" />
+        <item itemvalue="TestNG.Ornek_AmazonKayitSayfasi.test01" />
         <item itemvalue="TestNG.ActionClassTest" />
         <item itemvalue="TestNG.WindowHandleTest.cokluPencereTest" />
         <item itemvalue="TestNG.WindowHandleTest" />
-        <item itemvalue="TestNG.IframeTest.iframeTest4" />
-        <item itemvalue="TestNG.IframeTest.iframeTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +173,7 @@
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="247" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599076118195" />
-    <state width="973" height="253" key="GridCell.Tab.0.bottom" timestamp="1599250558648">
+    <state width="973" height="253" key="GridCell.Tab.0.bottom" timestamp="1599423654524">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1599243241836" />
@@ -186,7 +183,12 @@
     <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758077" />
     <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664789" />
     <state width="973" height="255" key="GridCell.Tab.0.bottom/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295230" />
-    <state width="973" height="253" key="GridCell.Tab.0.center" timestamp="1599250558646">
+    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599423101416" />
+    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599423654524" />
+    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599422497522" />
+    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852151" />
+    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994171" />
+    <state width="973" height="253" key="GridCell.Tab.0.center" timestamp="1599423654523">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1599243241835" />
@@ -196,7 +198,12 @@
     <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758076" />
     <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664788" />
     <state width="973" height="255" key="GridCell.Tab.0.center/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295229" />
-    <state width="973" height="253" key="GridCell.Tab.0.left" timestamp="1599250558646">
+    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599423101415" />
+    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599423654523" />
+    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599422497521" />
+    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852150" />
+    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994170" />
+    <state width="973" height="253" key="GridCell.Tab.0.left" timestamp="1599423654522">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1599243241835" />
@@ -206,7 +213,12 @@
     <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758076" />
     <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664787" />
     <state width="973" height="255" key="GridCell.Tab.0.left/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295228" />
-    <state width="973" height="253" key="GridCell.Tab.0.right" timestamp="1599250558647">
+    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599423101415" />
+    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599423654522" />
+    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599422497521" />
+    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852150" />
+    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994169" />
+    <state width="973" height="253" key="GridCell.Tab.0.right" timestamp="1599423654523">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
     <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.951@0.23.1680.951" timestamp="1599243241836" />
@@ -216,5 +228,24 @@
     <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1599163758077" />
     <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.962@0.23.1680.962" timestamp="1599162664788" />
     <state width="973" height="255" key="GridCell.Tab.0.right/1680.165.1920.1057/0.23.1680.964@0.23.1680.964" timestamp="1599157295230" />
+    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599423101416" />
+    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599423654523" />
+    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599422497522" />
+    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852151" />
+    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994170" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techproed/tests/Ornek_AmazonKayitSayfasi.java</url>
+          <line>28</line>
+          <properties class="com.techproed.tests.Ornek_AmazonKayitSayfasi" method="test02">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
