@@ -1,6 +1,7 @@
 package com.techproed.tests;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeClass;
@@ -22,7 +23,11 @@ public class deneme121 {
     }
 
     @Test
-    public void alertTest01(){
+    public void amazonTest01(){
+        driver.get("http://www.amazon.com");
+        driver.findElement(By.id("nav-hamburger-menu")).click();
+
+
 
     }
 

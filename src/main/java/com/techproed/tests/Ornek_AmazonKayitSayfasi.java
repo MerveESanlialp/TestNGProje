@@ -2,6 +2,7 @@ package com.techproed.tests;
 
 import com.techproed.utilities.TestBase;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
@@ -38,6 +39,23 @@ public class Ornek_AmazonKayitSayfasi extends TestBase {
         driver.findElement(By.id("ap_password")).sendKeys("Bilmemki01");
         driver.findElement(By.id("ap_password_check")).sendKeys("Amazon06.");
         driver.findElement(By.id("continue")).click();
+    }
+
+    @Test
+    public void buyukKucukYazma() throws Exception {
+        driver.get("http://www.google.com");
+        WebElement searchBox = driver.findElement(By.name("q"));
+        //searchBox.sendKeys("merhaba ");
+
+        // bu sekilde her karakteri buyuk yapar
+        Actions actions = new Actions(driver);
+        actions.moveToElement(searchBox).click()
+                .keyDown(Keys.SHIFT)
+                .sendKeys("merhaba")
+                .keyUp(Keys.SHIFT)
+                .sendKeys(" nasılsınız")
+                .perform();
+
 
 
     }

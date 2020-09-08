@@ -23,7 +23,7 @@ public class ActionClassTest extends TestBase {
     @Test
     public void ciftTiklama(){
         driver.get("http://demo.guru99.com/test/simple_context_menu.html");
-        WebElement button = driver.findElement(By.xpath("//button[@ondblclick='myFunction]"));
+        WebElement button = driver.findElement(By.xpath("//button[@ondblclick='myFunction()']"));
         Actions actions = new Actions(driver);
         // bir Elemente double click yapmak istiyorsak, doubleclick
         actions.doubleClick(button).perform();
