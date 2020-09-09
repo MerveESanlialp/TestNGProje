@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15eefba3-fbf8-47fb-9f18-5d96ab9c65b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/Deneme_actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/FileDownloadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/Ornek_HotelOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/WaitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/Ornek_Webtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/WebTablesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techproed/tests/ActionClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/ActionClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techproed/tests/Ornek_AmazonKayitSayfasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/Ornek_AmazonKayitSayfasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techproed/tests/deneme121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techproed/tests/deneme121.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techproed/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techproed/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/techproed/tests/ActionClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techproed/tests/ActionClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/techproed/tests/Ornek_AmazonKayitSayfasi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techproed/tests/Ornek_AmazonKayitSayfasi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/techproed/tests/deneme121.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techproed/tests/deneme121.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/techproed/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techproed/utilities/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techproed/tests/Ornek_HotelOlusturma.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techproed/tests/Ornek_HotelOlusturma.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,25 +42,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="TestNG.Ornek_HotelOlusturma.hotelCreate">
-    <configuration name="Deneme_actions.dragAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGProje" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.techproed.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.techproed.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.Deneme_actions" />
-      <option name="METHOD_NAME" value="dragAndDrop" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.WebTablesTest.WebTable">
     <configuration name="Ornek_HotelOlusturma" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGProje" />
       <extension name="coverage">
@@ -141,13 +114,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebTablesTest.WebTable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGProje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.tests.WebTablesTest" />
+      <option name="METHOD_NAME" value="WebTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.WebTablesTest.WebTable" />
         <item itemvalue="TestNG.Ornek_HotelOlusturma.hotelCreate" />
         <item itemvalue="TestNG.Ornek_HotelOlusturma.setUp" />
         <item itemvalue="TestNG.Ornek_HotelOlusturma" />
         <item itemvalue="TestNG.WaitTest.exlicitWait" />
-        <item itemvalue="TestNG.Deneme_actions.dragAndDrop" />
       </list>
     </recent_temporary>
   </component>
@@ -185,8 +176,8 @@
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="247" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1680.165.1920.1057/0.23.1680.959@0.23.1680.959" timestamp="1599076118195" />
-    <state width="973" height="253" key="GridCell.Tab.0.bottom" timestamp="1599596074337">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="937" height="253" key="GridCell.Tab.0.bottom" timestamp="1599677531946">
+      <screen x="0" y="23" width="1680" height="964" />
     </state>
     <state width="973" height="253" key="GridCell.Tab.0.bottom/0.23.1680.955@0.23.1680.955" timestamp="1599537537767" />
     <state width="973" height="253" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1599540108650" />
@@ -209,11 +200,12 @@
     <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.951@0.23.1680.951" timestamp="1599504239869" />
     <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599593946611" />
     <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599596074337" />
-    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599508450512" />
-    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852151" />
-    <state width="973" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994171" />
-    <state width="973" height="253" key="GridCell.Tab.0.center" timestamp="1599596074335">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="937" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1599677184560" />
+    <state width="937" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599677302408" />
+    <state width="937" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599676733580" />
+    <state width="937" height="253" key="GridCell.Tab.0.bottom/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599677531946" />
+    <state width="937" height="253" key="GridCell.Tab.0.center" timestamp="1599677531945">
+      <screen x="0" y="23" width="1680" height="964" />
     </state>
     <state width="973" height="253" key="GridCell.Tab.0.center/0.23.1680.955@0.23.1680.955" timestamp="1599537537766" />
     <state width="973" height="253" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1599540108649" />
@@ -236,11 +228,12 @@
     <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.951@0.23.1680.951" timestamp="1599504239868" />
     <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599593946610" />
     <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599596074335" />
-    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599508450511" />
-    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852150" />
-    <state width="973" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994170" />
-    <state width="973" height="253" key="GridCell.Tab.0.left" timestamp="1599596074334">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="937" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1599677184559" />
+    <state width="937" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599677302407" />
+    <state width="937" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599676733578" />
+    <state width="937" height="253" key="GridCell.Tab.0.center/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599677531945" />
+    <state width="937" height="253" key="GridCell.Tab.0.left" timestamp="1599677531944">
+      <screen x="0" y="23" width="1680" height="964" />
     </state>
     <state width="973" height="253" key="GridCell.Tab.0.left/0.23.1680.955@0.23.1680.955" timestamp="1599537537765" />
     <state width="973" height="253" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1599540108649" />
@@ -263,11 +256,12 @@
     <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.951@0.23.1680.951" timestamp="1599504239868" />
     <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599593946609" />
     <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599596074334" />
-    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599508450511" />
-    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852150" />
-    <state width="973" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994169" />
-    <state width="973" height="253" key="GridCell.Tab.0.right" timestamp="1599596074336">
-      <screen x="0" y="23" width="1680" height="955" />
+    <state width="937" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1599677184558" />
+    <state width="937" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599677302407" />
+    <state width="937" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599676733578" />
+    <state width="937" height="253" key="GridCell.Tab.0.left/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599677531944" />
+    <state width="937" height="253" key="GridCell.Tab.0.right" timestamp="1599677531945">
+      <screen x="0" y="23" width="1680" height="964" />
     </state>
     <state width="973" height="253" key="GridCell.Tab.0.right/0.23.1680.955@0.23.1680.955" timestamp="1599537537766" />
     <state width="973" height="253" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1599540108650" />
@@ -290,9 +284,10 @@
     <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.951@0.23.1680.951" timestamp="1599504239869" />
     <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.953@0.23.1680.953" timestamp="1599593946610" />
     <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.955@0.23.1680.955" timestamp="1599596074336" />
-    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599508450512" />
-    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599422852151" />
-    <state width="973" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599422994170" />
+    <state width="937" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.957@0.23.1680.957" timestamp="1599677184559" />
+    <state width="937" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.959@0.23.1680.959" timestamp="1599677302408" />
+    <state width="937" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.961@0.23.1680.961" timestamp="1599676733579" />
+    <state width="937" height="253" key="GridCell.Tab.0.right/1680.23.3840.2137/0.23.1680.964@0.23.1680.964" timestamp="1599677531945" />
     <state width="973" height="314" key="GridCell.Tab.1.bottom" timestamp="1599594607415">
       <screen x="0" y="23" width="1680" height="955" />
     </state>
